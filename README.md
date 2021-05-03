@@ -77,7 +77,7 @@ $ ./create_pr.sh
 Oder händisch auf Github im Reiter "Pull Requests".
 
 
-Offene Pull Requests findet ebenfalls man [hier](https://github.com/fabianallendorf/klixx-data/pulls). Mit Hilfe von Pull requests kann man Änderungen sehr einfach einsehen und kommentieren. Wenn alles gut ist wird dein neuer Branch in den `main` Branch aufgenommen (*merged*). Wenn das passiert ist, sind deine Änderungen mit dabei und werden zeitnah auf http://klixx.allendorf.me/ zu sehen sein.
+Offene Pull Requests findet ebenfalls man [hier](https://github.com/fabianallendorf/klixx-data/pulls). Mit Hilfe von Pull requests kann man Änderungen sehr einfach einsehen und kommentieren. Wenn alles gut ist wird dein neuer Branch in den `main` Branch aufgenommen (*merged*). Wenn das passiert ist, sind deine Änderungen mit dabei und werden zeitnah auf https://klixx.allendorf.me/ zu sehen sein.
 
 Vielen Dank für deine Hilfe!
 
